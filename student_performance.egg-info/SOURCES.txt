@@ -1,0 +1,15 @@
+setup.py
+models/__init__.py
+models/student.py
+reports/__init__.py
+reports/student_performance.py
+student_performance.egg-info/PKG-INFO
+student_performance.egg-info/SOURCES.txt
+student_performance.egg-info/dependency_links.txt
+student_performance.egg-info/top_level.txt
+tests/__init__.py
+tests/test_file_reader.py
+tests/test_main.py
+tests/test_student_performance.py
+utils/__init__.py
+utils/file_reader.py
