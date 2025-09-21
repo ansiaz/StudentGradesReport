@@ -1,4 +1,0 @@
-models
-reports
-tests
-utils
